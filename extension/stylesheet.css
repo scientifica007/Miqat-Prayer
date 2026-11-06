@@ -1,0 +1,10 @@
+.miqat-panel { spacing: 6px; }
+.miqat-countdown { min-width: 5.5em; font-family: monospace; }
+.miqat-card {
+    padding: 12px 16px;
+    border-radius: 10px;
+    background-color: #20242b;
+    color: #ffffff;
+    border: 1px solid #90969f;
+}
+.miqat-card-label { text-align: right; }
