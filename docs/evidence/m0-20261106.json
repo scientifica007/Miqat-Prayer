@@ -1,0 +1,74 @@
+{
+  "date": "2026-11-06",
+  "uuid": "miqat-prayer@scientifica007.github.io",
+  "status": "passed",
+  "sanitized_for_publication": true,
+  "installed_matches_source": true,
+  "shell_process_unchanged": true,
+  "other_enabled_extensions_unchanged": true,
+  "baseline_miqat_message_count": 0,
+  "new_shell_message_count": 0,
+  "cycles": [
+    {
+      "cycle": 1,
+      "disabled": true,
+      "active": true
+    },
+    {
+      "cycle": 2,
+      "disabled": true,
+      "active": true
+    },
+    {
+      "cycle": 3,
+      "disabled": true,
+      "active": true
+    },
+    {
+      "cycle": 4,
+      "disabled": true,
+      "active": true
+    },
+    {
+      "cycle": 5,
+      "disabled": true,
+      "active": true
+    },
+    {
+      "cycle": 6,
+      "disabled": true,
+      "active": true
+    },
+    {
+      "cycle": 7,
+      "disabled": true,
+      "active": true
+    },
+    {
+      "cycle": 8,
+      "disabled": true,
+      "active": true
+    },
+    {
+      "cycle": 9,
+      "disabled": true,
+      "active": true
+    },
+    {
+      "cycle": 10,
+      "disabled": true,
+      "active": true
+    }
+  ],
+  "final_enabled": true,
+  "final_state": "ACTIVE",
+  "user_visual_confirmation": {
+    "single_indicator": true,
+    "countdown_updates": true,
+    "no_stuck_card_or_duplicates": true,
+    "desktop_stable": true,
+    "m0_functionally_accepted": true
+  },
+  "note": "Publication summary: only acceptance outcomes retained; no user paths, extension inventory, PIDs, session timestamps or detailed process measurements.",
+  "resource_observation": "No obvious sustained resource growth during the short shared-Shell test; this is not proof of absence of leaks."
+}

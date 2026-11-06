@@ -1,0 +1,9 @@
+{
+  "uuid": "miqat-prayer@scientifica007.github.io",
+  "name": "Miqat Prayer — M0 تجريبي",
+  "description": "مؤشر صلاة تجريبي بأوقات مصطنعة؛ لا يعتمد عليه للعبادة. GNOME 46 فقط.",
+  "shell-version": ["46"],
+  "version": 1,
+  "url": "https://github.com/scientifica007/Miqat-Prayer",
+  "session-modes": ["user"]
+}
